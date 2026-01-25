@@ -1,2 +1,2 @@
 # investment
-This my investment opinion
+This is my investment opinion
