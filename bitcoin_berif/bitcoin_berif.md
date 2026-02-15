@@ -1,6 +1,6 @@
 # 比特币信仰
 
-<img src="/Users/kevinding/Downloads/edfa2008/investment/bitcoin_berif/believe_in_America.png" style="zoom:50%;" />
+<img src="./believe_in_America.png" style="zoom:50%;" />
 
 I do not believe any government.
 
