@@ -31,8 +31,11 @@ The HODLer Manifesto:
 
 
 ## Reference
-[1] https://studio.glassnode.com/dashboards/btc-hodler-cycles 
+[1] https://studio.glassnode.com/dashboards/btc-hodler-cycles
+  
 [2] I AM HODLING. https://bitcointalk.org/index.php?topic=375643.0 
+
 [3] The HOLDer Manifesto. https://hodlermanifesto.com/ 
+
 [4] 守币人宣言. https://forum.cardano.org/t/the-hodler-manifesto/12075 
 
